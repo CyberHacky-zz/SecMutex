@@ -1,15 +1,13 @@
 # SecMutex
 SecMutex is Automated Malware Analysis Tool
 1. Malware Analysis tool
-	a. PE Viewer
-	b. HEX Viewer
-	c. String Viewer
-	d. Threat Intelligence Integrated
-	e. Sandbox
-	f. Automated Analysis
-	g. Custom and Rule Based Analysis
-	h. Reverse Engineering ( Ollydbg Integrated V1)
-	i. Memory Analysis
-	j. Behavior analysis
-	k. Sysinternals
-
+	1.1 PE Viewer
+	1.2 HEX Viewer
+	1.3 String Viewer
+	1.4 Threat Intelligence Integrated
+	1.5 Sandbox
+	1.6 Automated Analysis
+	1.7 Custom and Rule Based Analysis
+	1.8 Reverse Engineering ( Ollydbg Integrated V1)
+	1.9 Memory Analysis
+	2.0 Behavior analysis | Sysinternals
